@@ -28,7 +28,7 @@ Currently working on an **AI-integrated Hospital Patient Queue Management System
 
 | Certification | Provider | Status |
 |---|---|---|
-| AWS Cloud Practitioner | Amazon Web Services | 🔄 In Progress |
+| AWS Cloud Practitioner | Amazon Web Services | ✅ Completed (2026) |
 | AWS Solutions Architect | Amazon Web Services | 🔄 Planned |
 | Project Management Certificate | — | 🔄 Planned |
 
@@ -37,7 +37,7 @@ Currently working on an **AI-integrated Hospital Patient Queue Management System
 ## 💻 Projects
 
 ### 🏥 Hospital Patient Queue Management System
-> Group academic project | Java · SQL · Apache Tomcat · AI Integration
+> Group academic project | Java · JSP · SQL · Apache Tomcat
 
 A web-based system focused on improving healthcare delivery in South Africa using Java, SQL, Apache Tomcat. Features role-based dashboards, triage routing and digital prescription management.
 
