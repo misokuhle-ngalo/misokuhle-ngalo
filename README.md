@@ -9,7 +9,7 @@
 
 I'm a final-year Diploma in Computer Science student at Tshwane University of Technology (eMalahleni campus). I'm passionate about using technology to solve real-world problems — especially in healthcare and entrepreneurship.
 
-Currently working on an **AI-integrated Hospital Patient Queue Management System** that uses AI to recommend treatment and send digital prescriptions to doctors for remote approval — reducing long hospital wait times across South Africa.
+Currently working on a ** Hospital Patient Queue Management System** that sends digital prescriptions to doctors for remote approval — reducing long hospital wait times across South Africa.
 
 ---
 
